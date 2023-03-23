@@ -2,7 +2,6 @@
 
 namespace Creational\AbstractFactory;
 interface IndoorProduct {
-
     /**
      * @return void
      */
