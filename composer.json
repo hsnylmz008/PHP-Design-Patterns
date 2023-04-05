@@ -13,7 +13,9 @@
     "symfony/dotenv": "^4.3",
     "aws/aws-sdk-php": "^3.112",
     "ext-json": "*",
-    "ext-imagick": "*"
+    "ext-imagick": "*",
+    "ext-http": "*",
+    "ext-simplexml": "*"
   },
   "autoload": {
     "psr-4": {
